@@ -10,5 +10,4 @@ It is developed using ReactJS, NodeJS, Docker, and Kubernetes.
 To run
 
 > skaffold dev
---------------------------------------------
 
